@@ -1,0 +1,16 @@
+{
+  "name": "Bladebeat – Local Music Player",
+  "short_name": "Bladebeat",
+  "description": "Retro console-style local music player with equalizer, lyrics, visualizer and playlists. Works offline.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#040803",
+  "theme_color": "#040803",
+  "categories": ["music", "entertainment"],
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
